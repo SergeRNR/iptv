@@ -142,3 +142,9 @@ http://37.194.19.150:81/udp/239.1.11.6:1234
 http://195.189.238.106/streaming/eurosport/16/tvrecw/playlist.m3u8
 #EXTINF:-1,Eurosport 2
 http://195.189.238.106/streaming/eurosport2/16/tvrecw/playlist.m3u8
+
+#EXTINF:-1,Eurosport
+http://193.201.98.123:8000/play/a01r
+
+#EXTINF:-1,Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
