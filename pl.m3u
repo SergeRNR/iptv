@@ -77,3 +77,6 @@ http://83.246.248.166:81/udp/239.54.5.45:1224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danilvalov/iptv/master/tv_logos/eurosport_1.png", Eurosport 1
 http://82.200.127.58:8080/udp/239.54.5.45:1224
+
+#EXTINF:-1, group-title="radio" radio="true", Digitally Imported - Chillout
+http://pub1.diforfree.org:8000/di_chillout_hi
