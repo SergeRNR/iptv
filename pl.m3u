@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.it999.ru/img2/2052.png",Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.it999.ru/img2/4313.png",Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport1 HD
+http://193.27.209.122/eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2 HD
+http://193.27.209.122/eurosport2/index.m3u8
 
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
